@@ -1,0 +1,34 @@
+{
+"Webseries":[
+  { 
+  "Name":"Manifest",
+  "publishDate":"12/5/2018",
+  "ratings": "4", 
+  "genre":"Action", 
+  },
+  { 
+  "Name":"Warriornun",
+  "publishDate":"20/09/2020",
+  "ratings": "4", 
+  "genre":"Action", 
+  },
+  { 
+  "Name":"Little things",
+  "publishDate":"12/03/2016",
+  "ratings": "4", 
+  "genre":"Romantic", 
+  },
+  { 
+  "Name":"Black summer",
+  "publishDate":"12/11/2019",
+  "ratings": "4.5", 
+  "genre":"Drama", 
+  },
+  { 
+  "Name":"Z nation",
+  "publishDate":"10/9/2014",
+  "ratings": "4", 
+  "genre":"Horror", 
+  },
+]
+}

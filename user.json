@@ -1,0 +1,39 @@
+{
+"users":[
+  { 
+  "userId":1,
+  "loginId":"Shravan123",
+  "password": "Shravan456", 
+  "firstName":"Shravan", 
+  "lastName":"Patil" 
+  },
+  { 
+  "userId":2,
+  "loginId":"Tarun123",
+  "password": "Tarun456",
+  "firstName":"Tarun", 
+  "lastName":"Kumar" 
+  },
+  { 
+  "userId":3,
+  "loginId":"Deepika123",
+  "password": "Deepika456",
+  "firstName":"Deepika", 
+  "lastName":"Jadhav" 
+  }
+  { 
+  "userId":4,
+  "loginId":"Yuvraj123",
+  "password": "Yuvraj456",
+  "firstName":"Yuvraj", 
+  "lastName":"Shinde" 
+  },
+  { 
+  "userId":5,
+  "loginId":"Jalpa123",
+  "password": "Jalpa456",
+  "firstName":"Jalpa", 
+  "lastName":"Yadav" 
+  }
+]
+}

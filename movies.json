@@ -1,0 +1,34 @@
+{
+"movies":[
+  { 
+  "Name":"Avengers",
+  "publishDate":"12/11/2017",
+  "ratings": "4", 
+  "genre":"Action", 
+  },
+  { 
+  "Name":"RHTDM",
+  "publishDate":"20/09/2016",
+  "ratings": "4.5", 
+  "genre":"Romantic", 
+  },
+  { 
+  "Name":"RHTDM",
+  "publishDate":"12/07/2016",
+  "ratings": "4.2", 
+  "genre":"Romantic", 
+  },
+  { 
+  "Name":"Hera Phera",
+  "publishDate":"12/11/2012",
+  "ratings": "4.5", 
+  "genre":"Comedy", 
+  },
+  { 
+  "Name":"Spiderman",
+  "publishDate":"23/8/2019",
+  "ratings": "4", 
+  "genre":"Action", 
+  },
+]
+}
